@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/writing"
+        android:enabled="true"
+        android:title="@string/Note" />
+
+    <item
+        android:id="@+id/navigation_ToDo"
+        android:icon="@drawable/list"
+        android:enabled="true"
+        android:title="@string/ToDo" />
+
+</menu>
